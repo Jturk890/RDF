@@ -38,12 +38,12 @@ pj:Poseidon rdf:type pj:God ;
 			pj:memberOf pj:Olympian ;
 			pj:hasPower "Water Manipulation, Speaking/Creating Horses, Creating Earthquakes" .
 
-pj:Grover rdf:type :Satyr ;
+pj:Grover rdf:type pj:Satyr ;
           pj:dwellsIn :CampHalfBlood ;
 		  pj:hasFriend pj:Grover, pj:Annabeth, pj:Tyson .
 		  _:Grover foaf:knows _:Tyson .
 
-pj:Annabeth rdf:type :Demigod ;
+pj:Annabeth rdf:type pj:Demigod ;
 			foaf:name "Annabeth Chase";
 			pj:hasParent pj:Athena ;
             pj:hasWeapon pj:DaggerOfAthena ;
