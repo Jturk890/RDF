@@ -49,7 +49,7 @@ pj:Annabeth rdf:type pj:Demigod ;
     pj:hasParent pj:Athena ;
     pj:hasWeapon pj:DaggerOfAthena ;
     pj:hasFriend pj:Grover, pj:PercyJackson, pj:Thalia ;
-    pj:dwellsIn pj:CampHalfBlood ;
+    pj:dwellsIn pj:CampHalfBlood .
     _:Annabeth foaf:knows _:Tyson .	
 
 pj:SallyJackson rdf:type pj:Mortal ;
