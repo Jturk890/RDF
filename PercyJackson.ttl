@@ -48,10 +48,10 @@ pj:Grover rdf:type pj:Satyr ;
 pj:Annabeth rdf:type pj:Demigod ;
 			foaf:name "Annabeth Chase";
 			pj:hasParent pj:Athena ;
-            pj:hasWeapon pj:DaggerOfAthena ;
+            		pj:hasWeapon pj:DaggerOfAthena ;
 			pj:hasFriend pj:Grover, pj:PercyJackson, pj:Thalia ;
-			_:Annabeth foaf:knows _:Tyson .
-            pj:dwellsIn pj:CampHalfBlood .
+			_:Annabeth foaf:knows _:Tyson ;
+            		pj:dwellsIn pj:CampHalfBlood .
 
 pj:SallyJackson rdf:type pj:Mortal ;
 			pj:dwellsIn "New York" .
