@@ -41,7 +41,7 @@ pj:Poseidon rdf:type pj:God ;
 			pj:hasPower "Water Manipulation, Speaking/Creating Horses, Creating Earthquakes" .
 
 pj:Grover rdf:type pj:Satyr ;
-          pj:dwellsIn :CampHalfBlood ;
+          pj:dwellsIn pj:CampHalfBlood ;
 		  pj:hasFriend pj:Grover, pj:Annabeth, pj:Tyson .
 		  _:Grover foaf:knows _:Tyson .
 
